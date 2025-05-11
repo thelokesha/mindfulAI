@@ -9,11 +9,7 @@
 
 🌍 [Visit MindfulAI Now](https://mindfulai-cggh.onrender.com)
 
----
 
-## 📸 Preview
-
-![MindfulAI Screenshot](https://your-screenshot-url.com) <!-- Replace with actual screenshot URL if available -->
 
 ---
 
