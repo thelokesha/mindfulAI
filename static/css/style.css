@@ -156,6 +156,15 @@ a:hover {
   align-items: center;
   padding: 20px 0;
   position: relative;
+  width: 40vw;
+}
+.chat {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+  position: relative;
+  width: 100%;
 }
 
 .logo {
@@ -401,6 +410,7 @@ a:hover {
 .auth-container {
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 50px;
   padding: 50px 0;
   min-height: 75vh;
@@ -643,9 +653,9 @@ a:hover {
 .welcome-message {
   background: rgba(40, 40, 40, 0.5);
   padding: 20px;
-  border-radius: var(--border-radius);
+  /* border-radius: var(--border-radius);*/
   margin-bottom: 20px;
-  border-left: 3px solid var(--primary-color);
+  /* border-left: 3px solid var(--primary-color);*/
 }
 
 .welcome-message ol {
